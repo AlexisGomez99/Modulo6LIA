@@ -1,0 +1,13 @@
+.estilo {
+  background-color: chocolate;
+  border-radius: 5px;
+  margin: 20px;
+  padding: 16px;
+  margin-left: 500px;
+  margin-right: 450px;
+  box-shadow: 0 2px 30px 0 #ccc;
+}
+
+.estiloDiv {
+  background-color: grey;
+}
